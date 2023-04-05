@@ -1,0 +1,9 @@
+.buttons button{
+    padding: 10px 40px;
+    font-size: 15px;
+    border-radius: 12px;
+    border: 2px solid dodgerblue;
+    background-color: white;
+    color: dodgerblue;
+    cursor: pointer;
+}

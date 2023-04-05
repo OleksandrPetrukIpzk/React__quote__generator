@@ -1,0 +1,17 @@
+.block{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    min-height: 200px;
+}
+.block h2{
+    text-align: center;
+}
